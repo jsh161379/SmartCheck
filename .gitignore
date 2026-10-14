@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# SQLite
+*.db
+*.db-wal
+*.db-shm
+*.sqlite3
+
+# Environment
+.env
+.env.*
+
+# Generated data
+data/
+*.log
+
+# Pretrained models
+*.pt
+*.task
+
+# IDE
+.vscode/
+.idea/
