@@ -165,8 +165,4 @@ Raspberry Pi에서는 사용 중인 OLED·RGB LED·부저의 실제 배선과 GP
 
 ## 8. 실행 화면 및 시연 영상
 
-Windows GUI, Raspberry Pi 하드웨어 동작, 검사·작업 이력 및 통계 화면을 추가할 예정입니다.
-
-- 시연 영상: 추후 링크 추가
-- Windows GUI 캡처: 추후 추가
-- Raspberry Pi 동작 사진: 추후 추가
+▶️ **[시연 영상 보기](https://youtu.be/FzeZzGVTo5M)**
